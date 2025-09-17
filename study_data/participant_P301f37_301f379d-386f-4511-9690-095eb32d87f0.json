@@ -1,0 +1,96 @@
+{
+  "participant": "Samiksha Singh",
+  "id": "P301f37",
+  "messages": [
+    {
+      "ts": "2025-09-17T20:01:54.804488Z",
+      "role": "assistant",
+      "step": 0,
+      "condition": {
+        "anthro_level": "A0",
+        "pov": "first"
+      },
+      "content": "Hello! I'll help you create a poem through 5 simple steps. Type **'ready'** when you want to begin!"
+    },
+    {
+      "ts": "2025-09-17T20:02:02.222206Z",
+      "role": "user",
+      "step": 0,
+      "content": "Ready"
+    },
+    {
+      "ts": "2025-09-17T20:02:02.224110Z",
+      "role": "assistant",
+      "step": 1,
+      "condition": {
+        "anthro_level": "A0",
+        "pov": "first"
+      },
+      "content": "Great! Let's begin.\n\n**Step 1: Topic Selection**\nWhat should your poem be about? Some ideas:\n- Ocean or nature\n- Dreams or aspirations\n- Time or memories\n- Love or friendship\n\nWhat topic interests you?"
+    },
+    {
+      "ts": "2025-09-17T20:02:12.067308Z",
+      "role": "user",
+      "step": 1,
+      "content": "Love"
+    },
+    {
+      "ts": "2025-09-17T20:02:12.069169Z",
+      "role": "assistant",
+      "step": 2,
+      "condition": {
+        "anthro_level": "A0",
+        "pov": "first"
+      },
+      "content": "Wonderful choice: \"Love\"!\n\n**Step 2: Message/Story**\nWhat story or message should the poem convey?\n- A life lesson?\n- A moment of beauty?\n- An emotional journey?\n\nWhat would you like to express?"
+    },
+    {
+      "ts": "2025-09-17T20:02:22.389187Z",
+      "role": "user",
+      "step": 2,
+      "content": "A life lesson"
+    },
+    {
+      "ts": "2025-09-17T20:02:22.394903Z",
+      "role": "assistant",
+      "step": 3,
+      "condition": {
+        "anthro_level": "A0",
+        "pov": "first"
+      },
+      "content": "Perfect!\n\n**Step 3: Tone**\nOur poem structure: 10 lines, 5 rhyming pairs, all in English.\n\nWhat tone fits best?\n- Uplifting and hopeful\n- Thoughtful and reflective\n- Playful and whimsical\n\nWhich appeals to you?"
+    },
+    {
+      "ts": "2025-09-17T20:02:38.179995Z",
+      "role": "user",
+      "step": 3,
+      "content": "uplifting and hopeful"
+    },
+    {
+      "ts": "2025-09-17T20:03:07.427937Z",
+      "role": "user",
+      "step": 3,
+      "content": "playful and whimsical"
+    }
+  ],
+  "study_state": {
+    "topic": "Love",
+    "content_arc": "A life lesson",
+    "tone": "uplifting and hopeful",
+    "error_mode": false,
+    "timer_expired": false,
+    "ended_by_user": false,
+    "poem_attempts": 0,
+    "feedback": {},
+    "error_type": "six_lines",
+    "feedback_page_seen": false
+  },
+  "session_id": "301f379d-386f-4511-9690-095eb32d87f0",
+  "condition": {
+    "anthro_level": "A0",
+    "pov": "first"
+  },
+  "seed": 139300,
+  "status": "partial",
+  "saved_at": "2025-09-17T20:03:07.427987Z"
+}

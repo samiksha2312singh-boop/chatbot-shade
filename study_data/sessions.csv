@@ -1,0 +1,3 @@
+saved_at,session_id,participant_id,anthro_level,pov,error_type,poem_attempts,timer_expired,ended_by_user,difficulty,ai_helpful,noticed_error
+2025-09-17T20:17:35.198699Z,25d2195d-e1cd-49da-8410-e9db63b2084f,P25d219,A3,none,six_lines,0,True,True,3,3,Yes
+2025-09-17T20:31:17.724884Z,a71fb1ca-61ba-443e-b246-ac2375661be6,Pa71fb1,A1,none,six_lines,2,True,True,2,2,Yes
